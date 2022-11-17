@@ -53,5 +53,6 @@ Final folder snapshot:
 
 ![GitHub Logo](/images/Sample1.png)
 ![GitHub Logo](/images/Sample2.png)
+![GitHub Logo](/images/Sample3.png)
 
 # talent-recomm-bertopic
