@@ -51,4 +51,7 @@ Final folder snapshot:
  		
 		README        
 
+![GitHub Logo](/images/Sample1.png)
+![GitHub Logo](/images/Sample2.png)
+
 # talent-recomm-bertopic
