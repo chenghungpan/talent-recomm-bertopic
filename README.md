@@ -38,7 +38,6 @@ $ cd talent-recomm-bertopic/
 
    %  source ./run_main.sh
 
-
 Final folder snapshot:
 
 		requirements.txt	(pip-install dependency requirements)
@@ -59,6 +58,11 @@ Final folder snapshot:
  		
 		README.md      
 
+### Step 4: terminating the application
+
+	The application will be deployed at your http://localhost:8501.
+ 	Once you are done with running the applicaiton, you can terminate the applicaiton from your terminal by pressing ctrl-C.	
+
 # Examples
 
 After you execute Step 3, the Streamlit will take care and launch a browser with URL :   http://localhost:8501
@@ -67,5 +71,6 @@ users can enter any job functions to look for matching talents.
 ![GitHub Logo](/images/Sample1.png)
 ![GitHub Logo](/images/Sample2.png)
 ![GitHub Logo](/images/Sample3.png)
+![GitHub Logo](/images/Sample4.png)
 
 # talent-recomm-bertopic
