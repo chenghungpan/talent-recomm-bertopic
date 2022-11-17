@@ -5,7 +5,7 @@ This Talent Recommendation System is based on BERTopic model (https://github.com
 At last,the front end browser of this application was implemented by Streamlit,which will be pip installed from the Step 2 (pip_install.sh). After Step 2, all of the dependencies should be in place for you to run.  In order for the dependencies to work, please ONLY USE PYTHON 3.9. Don't use 3.10 plus, or 3.8 minus, it will cause some dependencies issues and the application might not be working. 
 
 
-Step 1: Download the model files and data files form the following link:
+### Step 1: Download the model files and data files form the following link:
 
     	https://drive.google.com/file/d/1JBYpdrwmVK53J2vLT9wkX8tOqUlbNX_2/view?usp=sharing
 
@@ -22,11 +22,11 @@ Step 1: Download the model files and data files form the following link:
 		3)	talent_sage_topics 		(pre-trained job titles)
 		4) 	talents_total.csv   		(input data file) 
 
-Step 2: pip install the dependencies:
+### Step 2: pip install the dependencies:
 
     % source ./pip_install.sh 
 
-Step 3: run the app 
+### Step 3: run the app 
 
    %  source ./run_main.sh
 
@@ -50,6 +50,8 @@ Final folder snapshot:
  		topic_0.csv    (temperary file)
  		
 		README        
+
+## Examples
 
 ![GitHub Logo](/images/Sample1.png)
 ![GitHub Logo](/images/Sample2.png)
