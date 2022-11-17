@@ -11,6 +11,8 @@ $ git clone https://github.com/chenghungpan/talent-recomm-bertopic
 $ cd talent-recomm-bertopic/
 
 
+
+
 ### Step 1: Download the model and data files from the following link onto your working directory (talent-recomm-bertopic/) :
 
 #####   	https://drive.google.com/file/d/1JBYpdrwmVK53J2vLT9wkX8tOqUlbNX_2/view?usp=sharing
@@ -30,7 +32,7 @@ $ cd talent-recomm-bertopic/
 
 ### Step 2: pip install the dependencies:
 
-    % source ./pip_install.sh 
+    $ python3 -m pip install -r requirements.txt
 
 ### Step 3: run the app 
 
@@ -39,7 +41,7 @@ $ cd talent-recomm-bertopic/
 
 Final folder snapshot:
 
-		pip_install.sh		(pip-install script)
+		requirements.txt	(pip-install dependency requirements)
 
  		run_main.sh		(run-main-program script)
 
@@ -55,7 +57,7 @@ Final folder snapshot:
 
  		topic_0.csv    (temperary file)
  		
-		README        
+		README.md      
 
 # Examples
 
