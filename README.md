@@ -4,8 +4,13 @@ This Talent Recommendation System is based on BERTopic model (https://github.com
 
 At last,the front end browser of this application was implemented by Streamlit,which will be pip installed from the Step 2 (pip_install.sh). After Step 2, all of the dependencies should be in place for you to run.  In order for the dependencies to work, please ONLY USE PYTHON 3.9. Don't use 3.10 plus, or 3.8 minus, it will cause some dependencies issues and the application might not be working. 
 
+# Installation
 
-### Step 1: Download the model files and data files form the following link:
+$ git clone https://github.com/chenghungpan/talent-recomm-bertopic
+$ cd talent-recomm-bertopic/
+
+
+### Step 1: Download the model and data files from the following link onto your working directory (talent-recomm-bertopic/) :
 
 #####   	https://drive.google.com/file/d/1JBYpdrwmVK53J2vLT9wkX8tOqUlbNX_2/view?usp=sharing
 
