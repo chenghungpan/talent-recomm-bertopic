@@ -26,14 +26,22 @@ Step 3: run the app
 
 Final folder snapshot:
 
- pip_install.sh	(pip-install script)
- run_main.sh		(run-main-program script)
- talent_sage_model
- talent_sage_probs.npy
- talent_sage_topics
- talents_total.csv
- streamlit_load_model.py
- topic_0.csv    (temperary file)
- README        
+		pip_install.sh		(pip-install script)
+
+ 		run_main.sh		(run-main-program script)
+
+ 		talent_sage_model
+
+ 		talent_sage_probs.npy
+
+ 		talent_sage_topics
+
+ 		talents_total.csv
+
+ 		streamlit_load_model.py
+
+ 		topic_0.csv    (temperary file)
+ 		
+		README        
 
 # talent-recomm-bertopic
