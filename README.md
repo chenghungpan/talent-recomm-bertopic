@@ -1,6 +1,6 @@
 # Background (The First BERTopic Talent Recommendation System) 
 
-This Talent Recommendation System is based on BERTopic model (https://github.com/MaartenGr/BERTopic) and adapted to add new recommendation engine.  In total, there are about 220,000 talent experiences in the dataset (talents_total.csv) And another Talent Training System has pre-trained a model (talent_sage_model), and two artifacts (talent_sage_topics and talent_sage_probs.npy). All these three files have been encapuslated into model.tar.gz and can be downloaded from the attached Google Dirve link.
+This Talent Recommendation System is based on BERTopic (https://github.com/MaartenGr/BERTopic) and adapted to add new recommendation engine.  In total, there are about 220,000 talent experiences in the dataset (talents_total.csv) And another Talent Training System has pre-trained a model (talent_sage_model), and two artifacts (talent_sage_topics and talent_sage_probs.npy). All these three files have been encapuslated into model.tar.gz and can be downloaded from the attached Google Dirve link.
 
 At last,the front end browser of this application was implemented by Streamlit,which will be pip installed from the Step 2 (pip_install.sh). After Step 2, all of the dependencies should be in place for you to run.  In order for the dependencies to work, please ONLY USE PYTHON 3.9. Don't use 3.10 plus, or 3.8 minus, it will cause some dependencies issues and the application might not be working. 
 
