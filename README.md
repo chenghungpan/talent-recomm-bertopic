@@ -53,6 +53,8 @@ Final folder snapshot:
 
 ## Examples
 
+After you execute Step 3, the Streamlit will take care and launch a browser with URL :   http://localhost:8501
+users can enter any job functions to look for matching talents. 
 
 ![GitHub Logo](/images/Sample1.png)
 ![GitHub Logo](/images/Sample2.png)
