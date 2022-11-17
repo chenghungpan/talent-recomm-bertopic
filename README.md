@@ -1,5 +1,4 @@
-#Heading1 Introduction
-# H1
+# Introduction
 ## H2
 ### H3
 #### H4
