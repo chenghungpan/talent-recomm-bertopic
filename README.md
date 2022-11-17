@@ -1,11 +1,19 @@
 Step 1: Download the model files and data files form the following link:
-		link address: 
 
-       		talent_sage_model		(pre-trained model)
-		talent_sage_probs.npy		(pre-trained similarity scores)
-		talent_sage_topics 		(pre-trained job titles)
+    	https://drive.google.com/file/d/1JBYpdrwmVK53J2vLT9wkX8tOqUlbNX_2/view?usp=sharing
 
-		talents_total.csv   		(input data file) 
+	 	model.tar.gz (size: 2632606239)
+
+             ----------------------------------------------------------
+		After downloading the file, run the following:
+		% tar xvfz model.tar.gz 
+		
+		It will extract the following four files:
+
+       		1) 	talent_sage_model		(pre-trained model)
+		2)	talent_sage_probs.npy		(pre-trained similarity scores)
+		3)	talent_sage_topics 		(pre-trained job titles)
+		4) 	talents_total.csv   		(input data file) 
 
 Step 2: pip install the dependencies:
 
@@ -18,13 +26,14 @@ Step 3: run the app
 
 Final folder snapshot:
 
--rw-r--r--  1 owner  staff        1995 Nov 16 19:47 pip_install.sh
--rw-r--r--  1 owner  staff          49 Nov 16 19:48 run_main.sh
--rw-r--r--@ 1 owner  staff  1826945222 Nov 16 19:57 talent_sage_model
--rw-r--r--@ 1 owner  staff  1173199088 Nov 16 19:57 talent_sage_probs.npy
--rw-r--r--@ 1 owner  staff      301714 Nov 16 19:57 talent_sage_topics
--rw-r--r--@ 1 owner  staff   122486188 Nov 16 19:58 talents_total.csv
--rw-r--r--@ 1 owner  staff        5033 Nov 16 20:07 streamlit_load_model.py
--rw-r--r--  1 owner  staff         747 Nov 16 20:07 topic_0.csv    (temperary file)
--rw-r--r--  1 owner  staff         206 Nov 16 20:11 README        
+ pip_install.sh	(pip-install script)
+ run_main.sh		(run-main-program script)
+ talent_sage_model
+ talent_sage_probs.npy
+ talent_sage_topics
+ talents_total.csv
+ streamlit_load_model.py
+ topic_0.csv    (temperary file)
+ README        
+
 # talent-recomm-bertopic
